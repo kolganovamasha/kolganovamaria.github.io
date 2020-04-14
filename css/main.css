@@ -1,0 +1,11 @@
+body{
+    background-color: #f5f5dc;
+}
+header{
+    background-image: url(../img/фон.jpg);
+   min-height: 500px;
+background-size: cover;
+}
+.card{
+    margin-top: 20px;
+}
